@@ -125,7 +125,7 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0812 5154 9899'
+global.pdana = '0812 5154 9890'
 global.povo = '-'
 global.pgopay = '0813 5284 8936'
 global.plinkaja = '-' //link aja
