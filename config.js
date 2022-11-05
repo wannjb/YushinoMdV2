@@ -85,10 +85,10 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6281352848936'
-global.nomorown = '6281251549899'
-global.nomorown1 = '6281251549899'
-global.nomorown2 = '6281348106274'
+global.nomorbot = '6289518377899'
+global.nomorown = '62895327999292'
+global.nomorown1 = '62895327999292'
+global.nomorown2 = '62895327999292'
 global.nomorwa = '0'
 
 
@@ -97,40 +97,40 @@ global.nomorwa = '0'
 global.readMore = readMore
 global.author = 'DaniXd'
 global.namebot = '​ DaniBotz'
-global.wm = '© DaniBotz Bye DaniXd'
+global.wm = '© WannTrue'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.wm = 'DaniXd '
 global.watermark = wm
 global.wm2 = 'DaniXd '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
-global.stickauth = `© DaniBotz MD`
+global.titlebot = `𝑨WannTrue`
+global.stickpack = 'WannTrue'
+global.stickauth = `© WannTrueBotz MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'DaniXd'
-global.nameown2 = 'DaniOfc'
+global.nameown1= 'WannTrue'
+global.nameown2 = 'WannTrue'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/danibotz_official'
-global.sgh = 'https://github.com/DaniXd' //github
-global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
+global.sig = 'https://instagram.com/mhdkrnwnn_'
+global.sgh = 'https://github.com/wannjb' //github
+global.sgc = 'https://chat.whatsapp.com/GwCTefLrBr85NFFrqDE1pK' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
+global.snh = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0812 5154 9899'
+global.pdana = '0895 3279 99292'
 global.povo = '-'
-global.pgopay = '0813 5284 8936'
+global.pgopay = '0895 1837 7899'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0812 5154 9899'
-global.ppulsa2 = '081352848936'
+global.ppulsa = '0895 3279 99292'
+global.ppulsa2 = '0885327999292'
 global.psaweria = 'https://saweria.co/hyuura'
 
 
